@@ -121,6 +121,14 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+	.muted-link {
+		color: #767676;
+	}
+
+	.title-role {
+		display: block;
+	}
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
